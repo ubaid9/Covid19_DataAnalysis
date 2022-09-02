@@ -1,5 +1,5 @@
 # Covid19_DataAnalysis
-
+Libraries used: Numpy, Pandas, Matplotlib and Seaborn
 Graphs:
 =================================
 
