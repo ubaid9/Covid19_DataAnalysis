@@ -1,7 +1,7 @@
 # Covid19 DataAnalysis.
 Requirements: Numpy, Pandas, Matplotlib and Seaborn
 Graphs:
-=================================
+==================================
 
 ![image](https://user-images.githubusercontent.com/74426038/187974915-5155baf7-22c6-4df3-bcdf-251a569c3a3c.png)
 
